@@ -128,7 +128,7 @@
         Phone Number: ${phone}<br>
 
       `;
-      </form2>
+
  
       return false;
     }
@@ -136,4 +136,5 @@
 
 
 </body>
+
 </html>
