@@ -118,7 +118,7 @@
         errorDiv.innerHTML = " Password and Confirm Password Do not match.";
         return false;
       }
-      <form2>
+
 
  
       outputDiv.innerHTML = `
@@ -138,3 +138,4 @@
 </body>
 
 </html>
+
