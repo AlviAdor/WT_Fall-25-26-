@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <center>
-          <title1>Participant Registration</title1>
+    <center> 
   <style>
     body {
       font-family: Arial, sans-serif;
